@@ -12,8 +12,8 @@
 
 <br>
 
-- A passionate Self-taught Back-end developer
-- Currently learning Typescript by Self
+- A self-taught software engineer
+- Currently learning Typescript
 - I’m currently open for an Intern or a new job opportunity, this is {placeholder}
 
 <br><br>
@@ -29,6 +29,7 @@
 <br>
 
 - **Languages**:
+
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
